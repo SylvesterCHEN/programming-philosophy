@@ -4,4 +4,6 @@
 
 ## Build Maintainable Software
 
+* [Summary](./build_maintainable_software.md)
+
 ## Clean Code
